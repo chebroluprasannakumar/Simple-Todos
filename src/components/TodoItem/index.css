@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.para {
+  color: black;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-right: 30px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-radius: 8px;
+  height: 30px;
+  border-style: solid;
+  border-width: 1px;
+  width: 80px;
+  cursor: pointer;
+}
+.list-container {
+  list-style-type: none;
+}
